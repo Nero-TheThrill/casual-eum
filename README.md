@@ -26,7 +26,7 @@ The defender must catch the falling ice blocks. Catching has a **3-second cooldo
 
 ## ⚠️ Known Bug
 
-- Due to collision issues, the falling ice may sometimes push the attacker off the intended path.
+- Due to collision issues, the falling ice may sometimes push the defender off the intended path.
 - If this happens, press the **`N` key** to restart the game.
 
 ## 🔁 How to Play
@@ -71,7 +71,7 @@ Have fun!
 
 ## ⚠️ 알려진 버그
 
-- 얼음 충돌 문제로 인해 공격자가 경로를 이탈할 수 있는 현상이 있습니다.
+- 얼음 충돌 문제로 인해 수비자가 경로를 이탈할 수 있는 현상이 있습니다.
 - 이 버그가 발생할 경우 **`N` 키**를 눌러 게임을 재시작할 수 있습니다.
 
 ## 🔁 게임 진행 방법
